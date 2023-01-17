@@ -7,3 +7,5 @@ fetch-1
 fetch-2
 pull-1
 pull-2
+check-1
+check-2
