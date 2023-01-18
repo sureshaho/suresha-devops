@@ -14,3 +14,6 @@ revert1
 revert2
 confl-1
 PRBRANCH
+confl-1   new PR
+confl-2   abc
+
