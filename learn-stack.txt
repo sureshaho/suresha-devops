@@ -12,5 +12,5 @@ pull-1
 pull-2
 revert1
 revert2
-confl-1
+confl-1   new PR
 confl-2   abc
