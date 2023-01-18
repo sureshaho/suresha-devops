@@ -13,7 +13,5 @@ pull-2
 revert1
 revert2
 confl-1
-
 confl-2   abc
 
-confl-3
