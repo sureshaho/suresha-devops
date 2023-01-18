@@ -13,4 +13,4 @@ pull-2
 revert1
 revert2
 confl-1
-confl-2
+confl-3
